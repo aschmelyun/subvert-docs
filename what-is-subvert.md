@@ -9,7 +9,7 @@ Subvert is a self-contained, open-source application to generate and translate *
 ::: info Ready to try it out?
 You can skip this and head over to the [Getting Started](/getting-started) page. Or run:
 ```sh
-docker run -it -p 80:80 -e OPENAI_API_KEY=sk-abc123 aschmelyun/subvert
+docker run -it -p 80:8080 -e OPENAI_API_KEY=sk-abc123 aschmelyun/subvert
 ```
 :::
 
