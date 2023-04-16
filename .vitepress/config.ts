@@ -17,6 +17,7 @@ export default defineConfig({
         items: [
           { text: 'What is Subvert?', link: '/what-is-subvert' },
           { text: 'Getting Started', link: '/getting-started' },
+          { text: 'Enabling HTTPS', link: '/enable-https' },
           { text: 'Options', link: '/options' }
         ]
       }
